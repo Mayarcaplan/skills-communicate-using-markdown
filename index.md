@@ -1,4 +1,6 @@
-# Header 1 #
+# Rainbow Fish #
+![Image of Rainbow Fish](https://wayzatacommunitychurch.org/wp-content/uploads/2017/10/rainbow-fish-1.jpg)
+
 ## 2 ##
 ### 3 ###
 #### 4 ####
