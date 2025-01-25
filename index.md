@@ -8,8 +8,9 @@
 var myVar = "Hello, world!";
 ```
 ##### 5 #####
-###### 6 ######
-
-
+###### To Do ######
+- [ ] eat breakfast
+- [ ] make bed
+- [ ] do homework
 
 added headings to file 
